@@ -17,7 +17,7 @@ I contributed to the camera integration with Raspberry Pi, built a CNN-based dis
 
 ---
 
-### 🛠 Currently Working On
+###  Currently Working On
 
 Learning Python, Machine Learning, and Generative AI to build real projects and grow as an AI Engineer.
 
